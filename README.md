@@ -63,7 +63,8 @@ text
 
 Explore the data interactively:
 
-🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/views/HepatitisAinMaineComprehensiveAnalysis/HepatitisADashboard)**
+🔗 **[View Dashboard on Tableau Public
+(https://public.tableau.com/views/HepatitisADashboard/HepatitisADashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The dashboard includes:
 - **County Map** – Rate by county with year slider
